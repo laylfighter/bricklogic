@@ -174,9 +174,6 @@ This project was developed as a final year university project by:
 - Enhanced design editor features
 - Supplier inventory management system
 
-## 📝 License
-
-This project is available under the MIT License. See LICENSE file for details.
 
 ## 📧 Support
 
