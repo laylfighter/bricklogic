@@ -1,0 +1,58 @@
+# Environment variables & configuration
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs & temporary files
+*.log
+logs/
+error_log
+access_log
+*.tmp
+*.bak
+
+# Database backups
+*.sql.bak
+*.sql.gz
+backups/
+
+# User uploads (keep folder but not contents)
+Uploads/*
+!Uploads/.gitkeep
+
+# Session & cache files
+sessions/
+tmp/
+cache/
+
+# Composer (if using)
+vendor/
+composer.lock
+
+# Node (if using build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Package manager files
+.npm
+package-lock.json
+
+# Python cache (if using any Python scripts)
+__pycache__/
+*.pyc
+
